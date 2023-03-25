@@ -1,5 +1,5 @@
 #include "TM1640.h"
-
+using namespace kinoshita_lab;
 TM1640 tm(11, 12);
 
 void setup()
